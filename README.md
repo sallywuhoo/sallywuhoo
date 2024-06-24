@@ -1,6 +1,20 @@
 ## Hello and welcome to my Github portfolio! 👋
 
-I'm working on compiling all my data analytics projects (personal and academic) I've worked on to this Github portfolio. I've recently completed my Masters in Business Analytics with a concentration in Data Analytics and am looking to pursue a career working with data.
+💼 Currently compiling all my data analytics projects (personal and academic) to Github. I recently completed my Masters in Business Analytics with a concentration in Data Analytics and am looking to pursue a career working with data.
+
+💻 Languages I'm familiar with: 
+- Python (Pandas, NumPy, NLTK, Scikit-Learn, Matplotlib/Seaborn/Plotly)
+- SQL
+- R
+
+🌱 Courses I've taken in my graduate studies: 
+- CIS 9665 Applied Natural Language Processing
+- CIS 9660 Data Mining
+- CIS 9440 Data Warehousing and Analytics
+- CIS 9655 Data Visualization
+- CIS 9340 Principles of Database Management
+
+🌟 Passionate about turning data into actionable insights and making data-driven decisions
 
 <!--
 **sallywuhoo/sallywuhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
