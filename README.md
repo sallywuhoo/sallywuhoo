@@ -2,10 +2,13 @@
 
 💼 Currently compiling all my data analytics projects (personal and academic) to Github. I recently completed my Masters in Business Analytics with a concentration in Data Analytics and am looking to pursue a career working with data.
 
-💻 Languages I'm familiar with: 
+💻 What I'm familiar with: 
 - Python (Pandas, NumPy, NLTK, Scikit-Learn, Matplotlib/Seaborn/Plotly)
 - SQL
 - R
+- Tableau
+- Bigquery & Looker
+- Tableau
 
 🌱 Courses I've taken in my graduate studies: 
 - CIS 9665 Applied Natural Language Processing
